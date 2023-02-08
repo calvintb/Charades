@@ -1,0 +1,153 @@
+title,difficulty,category,description
+"1984 by George Orwell",1,Book,"A dystopian novel that depicts a totalitarian society where the government controls every aspect of people's lives."
+"A Tale of Two Cities by Charles Dickens",1,Book,"A novel set during the French Revolution about the lives of two men, Charles Darnay and Sydney Carton, and their love for the same woman."
+"American Gods by Neil Gaiman",1,Book,"A novel about a man named Shadow who becomes embroiled in a war between the old gods of mythology and the new gods of technology and media."
+"Animal Farm by George Orwell",1,Book,"A satirical novel about a group of farm animals that overthrow their oppressive human owners."
+"Atonement by Ian McEwan",1,Book,"A novel about a young girl who falsely accuses her older sister's lover of a crime, and the consequences of her actions over the course of several decades."
+"Beloved by Toni Morrison",1,Book,"A novel about a former slave named Sethe and her daughter Denver, who are haunted by the ghost of Sethe's dead baby."
+"Blood Meridian by Cormac McCarthy",1,Book,"A novel about a teenage runaway who joins a band of ruthless hunters in the American Southwest and witnesses their brutal violence and exploitation."
+"Brave New World by Aldous Huxley",1,Book,"A dystopian novel about a future society where people are conditioned and controlled from birth."
+"Harry Potter and the Philosopher's Stone by J.K. Rowling",1,Book,"The first book in the Harry Potter series, about a young wizard named Harry who learns about his magical heritage and attends Hogwarts School of Witchcraft and Wizardry."
+"Heart of Darkness by Joseph Conrad",1,Book,"A novel about a journey up the Congo River into the heart of the African continent, where a man named Kurtz has established a brutal and tyrannical rule."
+"Invisible Man by Ralph Ellison",1,Book,"A novel about a young black man's search for identity in a racially oppressive society."
+"Jane Eyre by Charlotte Bronte",1,Book,"A novel about a young governess named Jane who falls in love with her brooding and mysterious employer, Mr. Rochester."
+"Memoirs of a Geisha by Arthur Golden",1,Book,"A novel about the life of a Japanese geisha in the 1930s."
+"One Hundred Years of Solitude by Gabriel Garcia Marquez",1,Book,"A novel about the Buendia family and their generations of love, magic, and tragedy."
+"Pride and Prejudice by Jane Austen",1,Book,"A classic novel about the Bennet sisters and their quest for love and marriage in 19th century England."
+"The Alchemist by Paulo Coelho",1,Book,"A novel about a young shepherd's spiritual journey to find his destiny."
+"The Alice Books by Lewis Carroll",1,Book,"A series of books about a young girl named Alice who falls down a rabbit hole into a strange and fantastical world."
+"The Book Thief by Markus Zusak",1,Book,"A novel about a young girl in Nazi Germany who steals books to help her cope with her situation."
+"The Catcher in the Rye by J.D. Salinger",1,Book,"A coming-of-age novel about a teenage boy named Holden Caulfield who is struggling with feelings of alienation and confusion."
+"The Chronicles of Narnia by C.S. Lewis",1,Book,"A series of fantasy novels about the adventures of four children in a magical world."
+"The Color Purple by Alice Walker",1,Book,"A novel about the life of a black woman named Celie and her journey from poverty and oppression to self-discovery and independence."
+"The Diary of a Young Girl by Anne Frank",1,Book,"A diary of a Jewish girl's life in hiding during the Holocaust."
+"The Grapes of Wrath by John Steinbeck",1,Book,"A novel set during the Great Depression about a poor family of Oklahoma farmers who travel to California in search of a better life."
+"The Great Gatsby by F. Scott Fitzgerald",1,Book,"A novel about the pursuit of the American Dream in the 1920s."
+"The Harry Potter Series by J.K. Rowling",1,Book,"A series of fantasy novels about a young wizard's adventures at Hogwarts. "
+"The Hitchhiker's Guide to the Galaxy by Douglas Adams",1,Book,"A science fiction comedy about an unwitting human and his alien friend who travel through space and encounter bizarre and absurd creatures."
+"The Hobbit by J.R.R. Tolkien",1,Book,"A prequel to The Lord of the Rings, about a hobbit named Bilbo who sets out on a quest with a group of dwarves to reclaim their treasure from a dragon."
+"The Hunger Games Trilogy by Suzanne Collins",1,Book,"A trilogy of dystopian novels about a young girl's fight to survive a deadly competition."
+"The Kite Runner by Khaled Hosseini",1,Book,"A novel about the friendship between two Afghan boys and the tragic events that tear them apart."
+"The Left Hand of Darkness by Ursula K. Le Guin",1,Book,"A science fiction novel about a diplomat who travels to a planet where the inhabitants can change their gender at will."
+"The Lord of the Flies by William Golding",1,Book,"A novel about a group of boys stranded on an island who revert to savagery."
+"The Lord of the Rings by J.R.R. Tolkien",1,Book,"A epic fantasy novel about a hobbit named Frodo who sets out on a quest to destroy a powerful ring and save Middle Earth."
+"The Martian by Andy Weir",1,Book,"A science fiction novel about an astronaut named Mark Watney who is stranded on Mars and must find a way to survive and signal for rescue."
+"The Picture of Dorian Gray by Oscar Wilde",1,Book,"A novel about a young man named Dorian who remains young and beautiful while his portrait ages and reflects the evil within him."
+"The Remains of the Day by Kazuo Ishiguro",1,Book,"A novel about a butler who reflects on his life and career in the service of an English lord in the years leading up to World War II."
+"The Wind-Up Bird Chronicle by Haruki Murakami",1,Book,"A surreal and philosophical novel about a man named Toru Okade who embarks on a journey to find his missing wife and encounters strange and mysterious characters along the way."
+"Things Fall Apart by Chinua Achebe",1,Book,"A novel about the clash between traditional Igbo culture and the effects of British colonialism in Nigeria."
+"To Kill a Mockingbird by Harper Lee",1,Book,"A novel set in the 1930s about a young girl named Scout who witnesses the racism and prejudice in her small town of Maycomb, Alabama."
+"Wuthering Heights by Emily Bronte",1,Book,"A novel about the intense and passionate love between Catherine Earnshaw and Heathcliff."
+"The Lion, the Witch and the Wardrobe by C.S. Lewis",1,Book,"A fantasy novel about four children who discover a magical world in an old wardrobe."
+"The Da Vinci Code by Dan Brown",1,Book,"A mystery novel about a symbologist who discovers a centuries-old secret."
+"The Adventures of Tom Sawyer by Mark Twain",1,Book,"A classic novel about a young boy's adventures along the Mississippi River."
+"The Girl With the Dragon Tattoo by Stieg Larsson",1,Book,"A mystery novel about a hacker and a journalist investigating a decades-old murder."
+"The Old Man and the Sea by Ernest Hemingway",1,Book,"A classic novel about an old fisherman's struggle with a giant marlin."
+"The Fault in Our Stars by John Green",1,Book,"A story of two teenage cancer patients who find love and hope in each other."
+"The Adventures of Huckleberry Finn by Mark Twain",1,Book,"A classic novel about a young boy's adventures along the Mississippi River."
+"The Little Prince by Antoine de Saint-Exupéry",1,Book,"A story about a young prince who visits different planets and learns about life."
+"1984 (Signet Classics)",1,Book
+"A Man Called Ove: A Novel",1,Book
+"A Wrinkle in Time (Time Quintet)",1,Book
+"Alexander Hamilton",1,Book
+"All the Light We Cannot See",1,Book
+"American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History",1,Book
+"And the Mountains Echoed",1,Book
+"Arguing with Idiots: How to Stop Small Minds and Big Government",1,Book
+"Being Mortal: Medicine and What Matters in the End",1,Book
+"Born to Run",1,Book
+"Brown Bear, Brown Bear, What Do You See?",1,Book
+"Catching Fire (The Hunger Games)",1,Book
+"Divergent",1,Book
+"Eclipse (Twilight)",1,Book
+"Educated: A Memoir",1,Book
+"Enchanted Forest: An Inky Quest and Coloring book (Activity Books, Mindfulness and Meditation, Illustrated Floral Prints…",1,Book
+"Fahrenheit 451",1,Book
+"Fantastic Beasts and Where to Find Them: The Original Screenplay (Harry Potter)",1,Book
+"Fifty Shades of Grey: Book One of the Fifty Shades Trilogy (Fifty Shades of Grey Series)",1,Book
+"Giraffes Can't Dance",1,Book
+"Gone Girl",1,Book
+"Good to Great: Why Some Companies Make the Leap and Others Don't",1,Book
+"Goodnight Moon",1,Book
+"Hamilton: The Revolution",1,Book
+"Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter, Book 2)",1,Book
+"Harry Potter and the Cursed Child, Parts 1 & 2, Special Rehearsal Edition Script",1,Book
+"Harry Potter and the Goblet of Fire: The Illustrated Edition (Harry Potter, Book 4) (4)",1,Book
+"Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter, Book 3)",1,Book
+"Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter, Book 1)",1,Book
+"Homebody: A Guide to Creating Spaces You Never Want to Leave",1,Book
+"How to Win Friends & Influence People",1,Book
+"Humans of New York",1,Book
+"I Am Confident, Brave & Beautiful:(A Coloring Book for Girls)",1,Book
+"I, Alex Cross",1,Book
+"If Animals Kissed Good Night",1,Book
+"If I Stay",1,Book
+"Inferno",1,Book
+"Instant Pot Pressure Cooker Cookbook: 500 Everyday Recipes for Beginners and Advanced Users. Try Easy and Healthy",1,Book
+"Joyland (Hard Case Crime)",1,Book
+"Knock-Knock Jokes for Kids",1,Book
+"Laugh-Out-Loud Jokes for Kids",1,Book
+"Leonardo da Vinci",1,Book
+"Liberty and Tyranny:(A Conservative Manifesto)",1,Book
+"Life",1,Book
+"Looking for Alaska",1,Book
+"Love You Forever",1,Book
+"Mockingjay (The Hunger Games)",1,Book
+"National Geographic Kids",1,Book
+"New Moon (The Twilight Saga)",1,Book
+"Night (Night)",1,Book
+"Oh, the Places You'll Go!",1,Book
+"Outliers: The Story of Success",1,Book
+"Percy Jackson and the Olympians Paperback Boxed Set (Books 1-3)",1,Book
+"Player's Handbook (Dungeons & Dragons)",1,Book
+"Quiet: The Power of Introverts in a World That Can't Stop Talking",1,Book
+"Ready Player One: A Novel",1,Book
+"Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",1,Book
+"Steve Jobs",1,Book
+"Strange Planet (Strange Planet Series)",1,Book
+"The 5 Love Languages: The Secret to Love that Lasts",1,Book
+"The 5000 Year Leap",1,Book
+"The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",1,Book
+"The Alchemist",1,Book
+"The Amateur",1,Book
+"The Art of Racing in the Rain: A Novel",1,Book
+"The Book with No Pictures",1,Book
+"The Boys in the Boat",1,Book
+"The Casual Vacancy",1,Book
+"The Constitution of the United States",1,Book
+"The Day the Crayons Quit",1,Book
+"The Elegance of the Hedgehog",1,Book
+"The Fault in Our Stars",1,Book
+"The Getaway",1,Book
+"The Going-To-Bed Book",1,Book
+"The Goldfinch: A Novel (Pulitzer Prize for Fiction)",1,Book
+"The Handmaid's Tale",1,Book
+"The Hate U Give",1,Book
+"The Help",1,Book
+"The House of Hades (Heroes of Olympus, Book 4)",1,Book
+"The Hunger Games",1,Book
+"The Immortal Life of Henrietta Lacks",1,Book
+"The Last Lecture",1,Book
+"The Last Olympian (Percy Jackson and the Olympians, Book 5)",1,Book
+"The Lego Ideas Book: Unlock Your Imagination",1,Book
+"The Maze Runner (Book 1)",1,Book
+"The Time Traveler's Wife",1,Book
+"The Tipping Point: How Little Things Can Make a Big Difference",1,Book
+"The Total Money Makeover: Classic Edition: A Proven Plan for Financial Fitness",1,Book
+"The Twilight Saga Collection",1,Book
+"The Very Hungry Caterpillar",1,Book
+"The Wonderful Things You Will Be",1,Book
+"The Wonky Donkey",1,Book
+"The Wright Brothers",1,Book
+"Things That Matter: Three Decades of Passions, Pastimes and Politics [Deckled Edge]",1,Book
+"Thinking, Fast and Slow",1,Book
+"Thirteen Reasons Why",1,Book
+"Thomas Jefferson: The Art of Power",1,Book
+"Unbroken (A World War II Story of Survival, Resilience, and Redemption)",1,Book
+"Unfreedom of the Press",1,Book
+"What to Expect When You're Expecting",1,Book
+"Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health",1,Book
+"When Breath Becomes Air",1,Book
+"Where the Crawdads Sing",1,Book
+"Where the Wild Things Are",1,Book
+"Wonder",1,Book
