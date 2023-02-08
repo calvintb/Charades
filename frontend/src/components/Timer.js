@@ -1,4 +1,4 @@
-import React, {useState, useRef, useEffect} from 'react'
+import React, { useRef, useEffect} from 'react'
 
 
 export const Timer = ({timer, update}) => {
@@ -48,11 +48,9 @@ export const Timer = ({timer, update}) => {
             console.log("I got unmounted");
             clearInterval(Ref.current);
           }
-    }, []);
+    },[]);
 
-    const onClickReset = () => {
-        clearTimer(getDeadTime());
-    }
+
     return (
         <h2 style={{textAlign:"center"}}>{timer}</h2>
     )}

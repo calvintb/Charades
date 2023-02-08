@@ -15,9 +15,6 @@ export const HomePage = ({timer, update, changePage, cardCount, changeCardCount}
                     <label>Cards:</label>
                     <input type="number" defaultValue={cardCount} onChange={(e)=>{changeCardCount(e.target.value)}}/>
                 </div>
-                {/* <div className="select-categories">
-                    <button type="checkbox"></button>
-                </div> */}
                 <div className="submit-button">
                     <button className="cool-button" type="submit" onClick={()=>{changePage("game-page")}}>Submit</button>
                 </div>
@@ -25,15 +22,3 @@ export const HomePage = ({timer, update, changePage, cardCount, changeCardCount}
     </div>
     )
 }
-
-
-{/* <div className='card-box'>
-<Card name={cards[cardIndex].title} category={cards[cardIndex].category} description={cards[cardIndex].description}/>
-<div className='button-container'>
-<button className='red' onClick={()=>{
-    hands.passCards.push(cards[cardIndex]);
-    const newList = cards.filter((item) => item.id !== cards[cardIndex].id);
-    setCards(newList);
-    if (newList.length === 0) {
-        setTimer("00");}
-    }}>Wrong</button> */}
