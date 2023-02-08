@@ -6,7 +6,7 @@ In a terminal in the Charades directory, type
 ```
 cd frontend
 
-npm build
+npm install
 
 npm start
 ```
